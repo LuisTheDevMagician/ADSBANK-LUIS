@@ -88,3 +88,7 @@ Permite ao cliente depositar um valor na conta de outro cliente. O cliente deve 
 ## Considerações Finais
 
 Essas funções colaboram para criar um sistema bancário básico, onde clientes podem realizar operações comuns e um gerente pode gerenciar o cadastro e a manutenção dos clientes. O código é estruturado de forma que tanto o gerente quanto os clientes possam realizar suas operações de forma independente.
+
+## Como Compilar
+
+Utilize um compilador como o gcc diretamente no terminal, ou um programa que já tenha um compilador embarcado como DEV C++ e o VS CODE.
