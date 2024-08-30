@@ -5,6 +5,9 @@
 **Data de Entrega:** 30/08/2024  
 **Link para o Vídeo no YouTube:** [Adicionar Link Aqui]
 
+## Observação:
+O nome do gerente é Luis e a senha é 3216
+
 ## Descrição do Projeto
 
 O ADS Bank é um mini sistema bancário desenvolvido em C como parte de uma atividade acadêmica. O sistema oferece funcionalidades básicas para gerenciamento de contas bancárias, permitindo que clientes realizem operações financeiras e que gerentes gerenciem os cadastros de clientes.
