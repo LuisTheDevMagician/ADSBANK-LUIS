@@ -91,4 +91,4 @@ Essas funções colaboram para criar um sistema bancário básico, onde clientes
 
 ## Como Compilar
 
-Utilize um compilador como o gcc diretamente no terminal, ou um programa que já tenha um compilador embarcado como DEV C++ e o VS CODE.
+Utilize um compilador da linguagem C como o gcc diretamente no terminal, ou um editor de código que já tenha um compilador embarcado como DEV C++ e o VS CODE.
