@@ -412,7 +412,7 @@ void transferir() {
             printf("Saldo: %.2f\n", saldo[i]);
 
             char cpfDestino[15];
-            printf("Digite o CPF da pessoa para qual você deseja transferir: \n");
+            printf("Digite o CPF da pessoa para qual voce deseja transferir: \n");
             fgets(cpfDestino, 15, stdin);
             cpfDestino[strcspn(cpfDestino, "\n")] = '\0'; // Remove o newline no final do CPF
 
